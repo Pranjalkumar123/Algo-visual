@@ -16,4 +16,4 @@ A C++ console-based visualization tool for basic algorithms like sorting and sea
 - Platform: Cxxdroid (Mobile)
 
 ## 📎 Author
- Pranjal kumar(Git Hub: Pranjalkumar123) 
+[GitHub Profile](https://github.com/Pranjalkumar123)
