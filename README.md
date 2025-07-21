@@ -17,4 +17,4 @@ A C++ console-based visualization tool for basic algorithms like sorting and sea
 
 ## 📎 Author
 Pranjal Kumar  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](Pranjalkumar123) 
